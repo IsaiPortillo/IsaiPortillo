@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsaiPortillo
-- 👀 I’m interested in learn database and FullStack Developer.
+- 👀 I’m a FullStack Developer.
 - 🌱 I’m currently learning programming for android devices.
 - 📫 How to contact me adilmanport26@gmail.com Twitter: @Iz4Portillo Instagram: @isai_portillo08 
 
