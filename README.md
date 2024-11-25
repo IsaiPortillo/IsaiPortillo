@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isai Portillo</h1>
 <h3 align="center">I'm a passionate FullStack developer from El Salvador, currently studying Systems Engineering. My expertise lies in creating innovative solutions and crafting clean, efficient code. I'm constantly learning and exploring new technologies to improve my skills and contribute meaningfully to projects. Your collaboration and feedback on GitHub would be highly valuable as I continue to grow and develop in the tech community.</h3>
 
-<p align="left"> <a href="https://twitter.com/iz4portillo" target="blank"><img src="https://img.shields.io/twitter/follow/iz4portillo?logo=twitter&style=for-the-badge" alt="iz4portillo" /></a> </p>
-
 - 🌱 I’m currently learning **Ethical Hacking**
 
 - 📫 How to reach me **adilmanport26@gmail.com**
