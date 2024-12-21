@@ -101,7 +101,6 @@
 </p>
 
 <h3>Tools</h3>
-<h2>Tools</h2>
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://fontawesome.com/icons/git?f=classic&s=brands" alt="Git" width="40" height="40"/>
