@@ -103,31 +103,31 @@
 <h3>Tools</h3>
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://img.icons8.com/ios/452/git.png" alt="Git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/resources/what-container" target="_blank">
-    <img src="https://img.icons8.com/ios/452/docker.png" alt="Docker" width="40" height="40"/>
+  <a href="https://www.docker.com/what-docker" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
-  <a href="https://www.postman.com/postman" target="_blank">
-    <img src="https://img.icons8.com/ios/452/postman.png" alt="Postman" width="40" height="40"/>
+  <a href="https://www.postman.com/docs/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/android.png" alt="Android" width="40" height="40"/>
+  <a href="https://developer.android.com/docs" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Android_logo_2019.svg" alt="Android" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/en/Guide/HomePage" target="_blank">
-    <img src="https://img.icons8.com/ios/452/arduino.png" alt="Arduino" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="40"/>
   </a>
   <a href="https://www.blender.org/support/tutorials/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/blender.png" alt="Blender" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Blender_logo_2014.svg" alt="Blender" width="40" height="40"/>
   </a>
-  <a href="https://help.figma.com/hc/en-us/articles/360039829994" target="_blank">
-    <img src="https://img.icons8.com/ios/452/figma.png" alt="Figma" width="40" height="40"/>
+  <a href="https://www.figma.com/learn/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Figma-logo.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/docs" target="_blank">
-    <img src="https://img.icons8.com/ios/452/firebase.png" alt="Firebase" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Firebase_Logo.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/creativecloud.html" target="_blank">
-    <img src="https://img.icons8.com/ios/452/adobe.png" alt="Adobe" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Adobe_Creative_Cloud_logo_2019.svg" alt="Adobe" width="40" height="40"/>
   </a>
 </p>
 
