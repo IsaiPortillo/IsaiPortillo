@@ -15,9 +15,19 @@
 
 <div align="center">
   <h3>Technologies & Tools</h3>
-  <div>
-    <!-- Programming Languages -->
+  
+  <!-- Encabezados horizontales con CSS Grid -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; text-align: center; margin: 20px 0;">
     <h4>Programming Languages</h4>
+    <h4>Web Development</h4>
+    <h4>Frameworks</h4>
+    <h4>Databases</h4>
+    <h4>Tools</h4>
+    <h4>Other Technologies</h4>
+  </div>
+
+  <!-- Programming Languages -->
+  <div>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -27,8 +37,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
     </p>
-    <!-- Web Development -->
-    <h4>Web Development</h4>
+  </div>
+
+  <!-- Web Development -->
+  <div>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -37,29 +49,37 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
     </p>
-    <!-- Frameworks -->
-    <h4>Frameworks</h4>
+  </div>
+
+  <!-- Frameworks -->
+  <div>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
       <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
     </p>
-    <!-- Databases -->
-    <h4>Databases</h4>
+  </div>
+
+  <!-- Databases -->
+  <div>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
     </p>
-    <!-- Tools -->
-    <h4>Tools</h4>
+  </div>
+
+  <!-- Tools -->
+  <div>
     <p>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </p>
-    <!-- Other Technologies -->
-    <h4>Other Technologies</h4>
+  </div>
+
+  <!-- Other Technologies -->
+  <div>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
