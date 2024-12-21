@@ -103,31 +103,31 @@
 <h3>Tools</h3>
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/git.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/what-docker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/docker.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postman.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/postman.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/android.svg" alt="Android" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/android.svg" alt="Android" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/en/Guide/HomePage" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/arduino.svg" alt="Arduino" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/arduino.svg" alt="Arduino" width="40" height="40"/>
   </a>
   <a href="https://www.blender.org/support/tutorials/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/blender.svg" alt="Blender" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/blender.svg" alt="Blender" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/learn/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" alt="Figma" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/figma.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg" alt="Firebase" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/firebase.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/creativecloud.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobe.svg" alt="Adobe" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/adobe.svg" alt="Adobe" width="40" height="40"/>
   </a>
 </p>
 
