@@ -13,84 +13,42 @@
 <a href="https://instagram.com/isai_portillo08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isai_portillo08" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <h3>Technologies & Tools</h3>
-  
-  <!-- Encabezados horizontales con CSS Grid -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; text-align: center; margin: 20px 0;">
-    <h4>Programming Languages</h4>
-    <h4>Web Development</h4>
-    <h4>Frameworks</h4>
-    <h4>Databases</h4>
-    <h4>Tools</h4>
-    <h4>Other Technologies</h4>
-  </div>
+## Technologies & Tools
 
-  <!-- Programming Languages -->
-  <div>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-    </p>
-  </div>
+### Programming Languages
+| [![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](#) | [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](#) | [![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](#) | [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](#) | [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](#) | [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](#) | [![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](#) |
+|---|---|---|---|---|---|---|
 
-  <!-- Web Development -->
-  <div>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-    </p>
-  </div>
+---
 
-  <!-- Frameworks -->
-  <div>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
-    </p>
-  </div>
+### Web Development
+| [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](#) | [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](#) | [![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](#) | [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](#) | [![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)](#) | [![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)](#) |
+|---|---|---|---|---|---|
 
-  <!-- Databases -->
-  <div>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-    </p>
-  </div>
+---
 
-  <!-- Tools -->
-  <div>
-    <p>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    </p>
-  </div>
+### Frameworks
+| [![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)](#) | [![CodeIgniter](https://cdn.worldvectorlogo.com/logos/codeigniter.svg)](#) |
+|---|---|
 
-  <!-- Other Technologies -->
-  <div>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-    </p>
-  </div>
-</div>
+---
+
+### Databases
+| [![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](#) | [![MariaDB](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg)](#) | [![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](#) | [![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](#) |
+|---|---|---|---|
+
+---
+
+### Tools
+| [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](#) | [![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](#) | [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](#) |
+|---|---|---|
+
+---
+
+### Other Technologies
+| [![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](#) | [![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)](#) | [![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)](#) | [![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)](#) | [![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)](#) | [![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](#) | [![Qt](https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg)](#) |
+|---|---|---|---|---|---|---|
+
 
 <br>
 
