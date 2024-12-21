@@ -18,28 +18,28 @@
 <h3>Programming Languages</h3>
 <p align="center">
   <a href="https://learn-c.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/C_logo.svg" alt="C" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.learncpp.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/C%2B%2B_logo.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/C_Sharp_logo.svg" alt="C#" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://www.codecademy.com/learn/learn-java" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Java_logo.svg" alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://realpython.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://dart.dev/guides" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart_logo.svg" alt="Dart" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/docs/home.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_logo.svg" alt="Kotlin" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   </a>
 </p>
 
