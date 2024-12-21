@@ -38,6 +38,9 @@
   <a href="https://dart.dev/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Kotlin_1.1_logo.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
 </p>
 
 <h3>Web Development</h3>
@@ -60,6 +63,12 @@
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo.svg" alt="Sass" width="40" height="40"/>
+  </a>
 </p>
 
 <h3>Frameworks</h3>
@@ -69,6 +78,9 @@
   </a>
   <a href="https://codeigniter.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
+  </a>
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Qt_Logo.svg" alt="Qt" width="40" height="40"/>
   </a>
 </p>
 
@@ -98,6 +110,24 @@
   </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.android.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Android_Logo_2019.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Arduino_Logo.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Blender_logo.svg" alt="Blender" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Firebase_Logo.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Adobe_Logo.svg" alt="Adobe" width="40" height="40"/>
   </a>
 </p>
 
