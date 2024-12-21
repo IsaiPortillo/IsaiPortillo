@@ -74,13 +74,13 @@
 <h3>Frameworks</h3>
 <p align="center">
   <a href="https://laravel.com/docs" target="_blank">
-    <img src="https://img.icons8.com/ios/452/laravel.png" alt="Laravel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   </a>
-  <a href="https://codeigniter.com/userguide3/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/codeigniter.png" alt="CodeIgniter" width="40" height="40"/>
+  <a href="https://codeigniter.com/user_guide/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
   </a>
-  <a href="https://www.qt.io/qt-for-developers" target="_blank">
-    <img src="https://img.icons8.com/ios/452/qt.png" alt="Qt" width="40" height="40"/>
+  <a href="https://doc.qt.io/qt-5.15/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
   </a>
 </p>
 
