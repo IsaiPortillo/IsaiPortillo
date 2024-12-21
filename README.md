@@ -46,28 +46,28 @@
 <h3>Web Development</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/ios/452/html-5.png" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/ios/452/css3.png" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net/manual/en/tutorial.php" target="_blank">
-    <img src="https://img.icons8.com/ios/452/php-logo.png" alt="PHP" width="40" height="40"/>
+  <a href="https://www.php.net/manual/en/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/tutorial/tutorial.html" target="_blank">
-    <img src="https://img.icons8.com/ios/452/react.png" alt="React" width="40" height="40"/>
+  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/guide/introduction.html" target="_blank">
-    <img src="https://img.icons8.com/ios/452/vue-js.png" alt="Vue.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/learn" target="_blank">
-    <img src="https://img.icons8.com/ios/452/nextjs.png" alt="Next.js" width="40" height="40"/>
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.dev/learn" target="_blank">
-    <img src="https://img.icons8.com/ios/452/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com/guide" target="_blank">
-    <img src="https://img.icons8.com/ios/452/sass.png" alt="Sass" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   </a>
 </p>
 
