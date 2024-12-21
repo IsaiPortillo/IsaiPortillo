@@ -55,8 +55,13 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaiportillo&show_icons=true&theme=dark&title_color=c2c2c2&text_color=ffffff&locale=en&layout=compact" alt="isaiportillo" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaiportillo&show_icons=true&theme=dark&title_color=c2c2c2&text_color=ffffff&locale=en&layout=compact" alt="isaiportillo" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/adilmanporq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adilmanporq" /></a></p>
-
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/adilmanporq">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adilmanporq" />
+  </a>
+</p>
