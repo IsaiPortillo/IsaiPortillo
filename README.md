@@ -87,16 +87,16 @@
 <h3>Databases</h3>
 <p align="center">
   <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://mariadb.org/documentation/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/mariadb.png" alt="MariaDB" width="40" height="40"/>
+  <a href="https://mariadb.com/kb/en/documentation/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/mongodb.png" alt="MongoDB" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 </p>
 
